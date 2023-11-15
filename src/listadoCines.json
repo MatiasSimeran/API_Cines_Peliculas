@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nombre": "CineCity",
+        "ubicacion": "123 Main Street, Cityville",
+        "capacidad": 200
+    },
+    {
+        "id": "2",
+        "nombre": "MegaCine",
+        "ubicacion": "456 Center Avenue, Townsville",
+        "capacidad": 150
+    },
+    {
+        "id": "3",
+        "nombre": "StarCinema",
+        "ubicacion": "789 Broadway, Metropolis",
+        "capacidad": 180
+    },
+    {
+        "id": "4",
+        "nombre": "CityPlex",
+        "ubicacion": "101 Cinema Lane, Urbanville",
+        "capacidad": 220
+    },
+    {
+        "id": "5",
+        "nombre": "FilmVille",
+        "ubicacion": "543 Movie Street, Cinematown",
+        "capacidad": 170
+    }
+]
